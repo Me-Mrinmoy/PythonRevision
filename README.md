@@ -71,6 +71,17 @@ Contributions are welcome! Feel free to open a Pull Request (PR) if you:
 
 ---
 
+## ⭐ Support & Feedback
+
+If you find this repository helpful:
+
+- 🌟 **Star this repo**
+- 🔄 **Fork and contribute**
+- 💬 **Share with your friends**
+- 📝 **Give feedback via issues**
+
+---
+
 ## 🗂️ Folder Structure
 
 ```bash
